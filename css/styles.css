@@ -271,15 +271,6 @@ img{
     display: flex;
     align-items: center;
 }
-.skills__bar{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background-color: var(--first-color);
-    height: .25rem;
-    border-radius: .5rem;
-    z-index: var(--z-back);
-}
 .skills__html{
     width: 90%;
 }
