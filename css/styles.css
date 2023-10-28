@@ -346,7 +346,7 @@ img{
 /* ===== FOOTER ===== */
 .footer{
     background-color: var(--second-color);
-    color: #000;
+    color: #fff;
     text-align: center;
     font-weight: var(--font-semi);
     padding: 2rem 0;
@@ -360,7 +360,7 @@ img{
 }
 .footer__icon{
     font-size: 1.5rem;
-    color: #fff;
+    color: #000;
     margin: 0 var(--mb-2);
 }
 /* ===== MEDIA QUERIES ===== */
